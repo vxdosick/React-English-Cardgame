@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.button--general {
+    color: white;
+    background-color: #3b82f6;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+.button--general:hover {
+
+}
+.button--secondary {
+    color: #ffffff;
+    background-color: #f25d5d;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+.button--secondary:hover {
+
+}
+
+
+
+.card {
+    background-color: rgb(183, 159, 255);
+}
